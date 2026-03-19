@@ -1,2 +1,3 @@
-# micro-microservice-1g32
-A microservice architecture for modern development workflows
+# Micro Microservice 1G32
+
+A microservice architecture for modern development workflows.
